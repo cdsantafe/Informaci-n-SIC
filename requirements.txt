@@ -1,0 +1,7 @@
+streamlit>=1.40
+pandas>=2.0
+plotly>=5.20
+openpyxl>=3.1
+# Solo se usan si leés la planilla con cuenta de servicio (planilla privada)
+gspread>=6.0
+google-auth>=2.30
